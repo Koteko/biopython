@@ -144,7 +144,7 @@ at compile time:
 - Python including development header files like ``python.h``, which on Linux
   are often not installed by default (trying looking for and installing a
   package named ``python-dev`` or ``python-devel`` as well as the ``python``
-  pacakge).
+  package).
 
 - Appropriate C compiler for your version of Python, for example GCC on Linux,
   MSVC on Windows. For Mac OS X, or as it is now branded, macOS, use Apple's
